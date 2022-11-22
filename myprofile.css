@@ -1,0 +1,199 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgba(24, 36, 36, 0.713);
+}
+nav{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    width: 100%;
+    padding: 5px;
+    align-items: center;
+    position: fixed;
+    margin-top: none;
+  
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 18px;
+    transition: .9s;
+}
+a:hover{
+    color: darkblue;
+}
+.you{
+    height: 30%;
+    width: 80%;
+    background-color: rgb(242, 234, 234);
+    
+    
+}
+
+h1{
+    color: darkblue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: -60px;
+    margin-top: -259px;
+    font-size: larger;
+}
+h4{
+    margin-top: -11px;
+    margin-left: -175px;
+    font-size: 13px;
+    color: rgb(18, 17, 17);
+ }
+ #to{
+    margin-top: 11px;
+    margin-left: 280px;
+    font-size: 14px;
+    color: rgb(18, 17, 17);
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+.run{margin-top: 3px;
+    margin-left: 280px;
+    font-size: 14px;
+    color: rgb(18, 17, 17);
+    text-align: justify;
+    margin-top: 25px;
+    line-height: 23px;
+}
+section{
+    text-align: center;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+    margin-top: -130px;
+}
+div{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+div img{ 
+    margin-top: 130px;
+    box-sizing: border-box;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 600px;
+}
+.you button{
+    border-radius: 9px;
+    height: 20px;
+    width: 180px;
+    border: none;
+    background-color: cadetblue;
+    font-family: sans-serif;
+    font-style: italic;
+    margin-left: -600px;
+    margin-top: 9px;
+    color: black;
+    transition: .9s;
+    cursor: pointer;
+    font-weight: bolder;
+    
+}
+button:hover{
+    background-color: darkblue;
+    color: white;
+}
+#my{
+    
+    border: 1px solid black;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    margin-top: 10px;
+    padding: 13px;
+    
+    
+}
+#mo{
+    border: 1px solid black;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    padding: 13px;
+}
+.sir{
+    margin-top: -270px;
+    background-color: rgb(218, 210, 210);
+    height: 300px;
+    width: 100%;
+    line-height: 50px;
+}
+.grap{
+    margin-left: -900px;
+    
+}
+.web{
+    margin-left: 400px;
+    margin-top: -52px;
+}
+label{
+    margin-left: -900px;}
+.op{
+    margin-left: 100%;
+    margin-top: -140px;
+    height: 70px;
+    background-color: rgb(218, 210, 210);
+    line-height: 50px;
+    
+}
+.third{
+    background-color: azure;
+    margin-top: -1px;
+    background-color: rgb(218, 210, 210);
+    height: 850px;
+    padding-top: 65px;
+}
+.go{
+    margin-top: 70px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid cadetblue;
+    border-radius: 9px;
+   width: 30%;
+   height: 155px;
+   background-color: cadetblue;
+   line-height: 40px;
+   font-family: 'Times New Roman', Times, serif;
+   
+   
+}
+.icon{
+    height: 180px;
+    margin-top: -20px;
+    font-size: 50px;
+    display: flex;
+    
+   
+}
+#ok{
+    font-size:30px;
+    color: white;
+    margin-top: 40px;
+}
+.ko{
+    font-size: 20px;
+    color: white;
+    margin-top: 20px;
+}
+
+
+
+
+
